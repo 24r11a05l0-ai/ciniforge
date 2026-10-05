@@ -1,0 +1,31 @@
+# Environment
+.env
+venv/
+.venv/
+env/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Project outputs
+outputs/
+uploaded_script.pdf
+
+# OS
+.DS_Store
+Thumbs.db
+.env.example
